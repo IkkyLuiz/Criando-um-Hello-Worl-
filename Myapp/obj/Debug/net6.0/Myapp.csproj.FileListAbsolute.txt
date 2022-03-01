@@ -1,0 +1,15 @@
+C:\Users\Luiz Henrique\Desktop\Myapp\bin\Debug\net6.0\Myapp.exe
+C:\Users\Luiz Henrique\Desktop\Myapp\bin\Debug\net6.0\Myapp.deps.json
+C:\Users\Luiz Henrique\Desktop\Myapp\bin\Debug\net6.0\Myapp.runtimeconfig.json
+C:\Users\Luiz Henrique\Desktop\Myapp\bin\Debug\net6.0\Myapp.dll
+C:\Users\Luiz Henrique\Desktop\Myapp\bin\Debug\net6.0\Myapp.pdb
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.dll
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\refint\Myapp.dll
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.pdb
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\Myapp.genruntimeconfig.cache
+C:\Users\Luiz Henrique\Desktop\Myapp\obj\Debug\net6.0\ref\Myapp.dll
